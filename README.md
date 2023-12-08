@@ -1,2 +1,0 @@
-# academiaapp
-Academia about repo
