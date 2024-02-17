@@ -6,7 +6,7 @@
   <p align="center">
     A new way of learning, writing and remembering
     <br />
-    <a href="https://akademiaapp.dk/"><strong>akademiaapp.dk »</strong></a>
+    <a href="https://akademia.cc/"><strong>akademia.cc »</strong></a>
     <br />
   </p>
 </p>
