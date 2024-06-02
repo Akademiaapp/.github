@@ -4,7 +4,7 @@
   </p>
   <h1 align="center"><b>Akademia</b></h1>
   <p align="center">
-    A new way of learning, writing and remembering
+    Opgaver, Lektier, Noter - alt samlet i én platform
     <br />
     <a href="https://akademia.cc/"><strong>akademia.cc »</strong></a>
     <br />
@@ -14,8 +14,10 @@
 <br />
 <br />
 
+Vores mission er at revolutionere skoledagen for lærere og elever, ved at lave en all-in-one digital skoleplatform til undervisningen.   
+
 > [!IMPORTANT]
-> This is still in very early development.
+> This is still in early development.
 
 <br />
 
